@@ -24,7 +24,7 @@ public class Runner {
 
     List<WorkerThread> threads;
     final static int THREAD_COUNT = 3;
-    final static String FILE_ABSOLUTE_LOCATION = "/Users/abhinavdubey/Documents/me/file-operations-and-multi-threading/src/com/runner/input.txt";
+    final static String FILE_ABSOLUTE_LOCATION = "/path/to/.txt/file";
 
 
     public static void main(String[] args) {
